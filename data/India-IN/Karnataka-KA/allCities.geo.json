@@ -784,6 +784,13 @@
       "longitude": "77.423684"
    },
    {
+      "name": "Kundapura", 
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.6236521107",
+      "longitude": "74.692268128"
+   },
+   {
       "name": "Kankanhalli",
       "countryCode": "IN",
       "stateCode": "KA",
