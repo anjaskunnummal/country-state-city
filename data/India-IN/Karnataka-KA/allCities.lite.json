@@ -560,11 +560,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Kundapura", 
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Kankanhalli",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -671,6 +666,11 @@
    },
    {
       "name": "Kumta",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Kundapura", 
       "countryCode": "IN",
       "stateCode": "KA"
    },
